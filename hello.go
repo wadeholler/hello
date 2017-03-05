@@ -9,6 +9,5 @@ import (
 func main() {
 	fmt.Println("reverse = " + string.Reverse("Hello my world"))
 	fmt.Println("Hello my world")
-	fmt.Println("what up - update again")
 
 }
